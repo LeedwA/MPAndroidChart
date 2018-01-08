@@ -47,6 +47,7 @@ public class LineChartActivity1 extends DemoBase implements OnSeekBarChangeListe
     private SeekBar mSeekBarX, mSeekBarY;
     private TextView tvX, tvY;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
