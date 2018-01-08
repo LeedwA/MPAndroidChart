@@ -43,6 +43,9 @@ import java.util.List;
 public class LineChartActivity1 extends DemoBase implements OnSeekBarChangeListener,
         OnChartGestureListener, OnChartValueSelectedListener {
 
+
+
+
     private LineChart mChart;
     private SeekBar mSeekBarX, mSeekBarY;
     private TextView tvX, tvY;
